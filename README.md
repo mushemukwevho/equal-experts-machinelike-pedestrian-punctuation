@@ -1,19 +1,3 @@
- ## Instructions for the assignment
-* Clone this repo on your machine.
-* Use your IDE of choice to complete the assignment.
-* When you are done with the solution and have pushed it to the repo, [you can submit the assignment here](https://app.snapcode.review/submission_links/d375c88f-2b60-4df2-aa0b-018278531f24).
-* Once you've indicated that you've completed the exercise, your access to the repository will be revoked. Make sure that you have 
-  finished the solution and pushed all the relevant code to the repo.
-
-## Before you start
-### Why complete this task?
-
-We want to make the interview process as simple and stress-free as possible. That’s why we ask you to complete 
-the first stage of the process from the comfort of your own home.
-
-Your submission will help us to learn about your skills and approach. If we think you’re a good fit for our 
-network, we’ll use your submission in the next interview stages too.
-
 ### About the task
 
 You’ll be creating an ingestion process to ingest files containing vote data. You’ll also create a means to 
